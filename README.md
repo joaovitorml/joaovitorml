@@ -7,6 +7,6 @@
 - I love programming and chess
 - How to reach me: joao.lemos4000@gmail.com
 
-[![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorml)](https://github.com/joaovitorml/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorml&layout=compact)](https://github.com/joaovitorml/github-readme-stats)
+
+[![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorml)](https://github.com/joaovitorml/github-readme-stats)
