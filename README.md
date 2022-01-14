@@ -1,6 +1,5 @@
-### Hi there
+### Hi there, my name is João Vítor Morandi Lemos
 
-- My name is João Vítor Morandi Lemos
 - I'm from Brasilia, Brazil
 - I’ve graduated on Software Engineering from University of Brasilia (UnB)
 - I’m currently working on software development
@@ -8,6 +7,6 @@
 - I love programming and chess
 - How to reach me: joao.lemos4000@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorml&theme=light">
+[![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorml)](https://github.com/joaovitorml/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitorml&show_icons=true&theme=light&line_height=30">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorml&layout=compact)](https://github.com/joaovitorml/github-readme-stats)
